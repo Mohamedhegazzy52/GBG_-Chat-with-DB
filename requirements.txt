@@ -1,0 +1,10 @@
+python-dotenv
+sqlalchemy
+pandas 
+psycopg2-binary 
+streamlit
+langchain
+langchain-google-genai
+langchain-community
+langchain-core
+faiss-cpu
